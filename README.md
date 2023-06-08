@@ -28,7 +28,6 @@
     <img src="photos/typescript 1.svg"/>
     <img src="photos/python 1.svg"/>
     <img src="photos/tailwindcss 1.svg"/>
-    </br>
     <img src="photos/react 1.svg"/>
     <img src="photos/nextdotjs 1.svg"/>
     <img src="photos/prisma 1.svg"/>
