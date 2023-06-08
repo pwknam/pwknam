@@ -14,25 +14,17 @@
 
 > I can make an impact in every core aspect of the product development process. I have extensive experience defining business value, discovering user needs, designing hi-fidelity wireframes, and developing full-stack applications.
 
-- 🌱 I’m currently learning **Next.js, TypeScript, and Prisma ORM**
-- 👨‍💻 All of my projects are available at **[https://daniel-jkim.com/](https://daniel-jkim.com/)**
-- 📫 How to reach me **dan.jkim21@gmail.com**
-- ⚡ Fun fact, **before software engineering, I used to work in nuclear energy policy!**
+- 🌱 I’m currently developing my skills in **Next.js, TypeScript, and Prisma ORM**
+- 📫 How to reach me **pwkn95@gmail.com**
+- ⚡ Fun fact, **before software engineering, I had experience in product sales and earned a Master of Fine Arts degree in UX/Innovation design!**
   <br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <p align="center">
-    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=feeddf&style=flat-square&logo=html5"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=feeddf&style=flat-square&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=feeddf&style=flat-square&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=feeddf&style=flat-square&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=NODE.JS&color=feeddf&style=flat-square&logo=node.js"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=feeddf&style=flat-square&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=feeddf&style=flat-square&logo=figma"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=feeddf&style=flat-square&logo=mongodb"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=feeddf&style=flat-square&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=feeddf&style=flat-square&logo=git"/>
+    <img src="photos/js.png"/>
+    <img src="photos/js.png"/>
+    <img src="photos/js.png"/>
 </p>
 <br>
 
