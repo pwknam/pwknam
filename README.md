@@ -42,48 +42,37 @@
 <table>
       <tr>
         <td width="50%">
-          <h3 align="center">Bookly</h3>
+          <h3 align="center">Art Archive</h3>
           <p align="center">
-             <a href="https://bookly.cyclic.app/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/bookly-app/blob/main/public/images/bookly-demo.gif?raw=true" alt="project example"/> </a>
-		<a href="https://github.com/danjkim21/bookly-app" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://bookly.cyclic.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+             <a href="https://github.com/pwknam/digital-art-archive" target="_blank" ref="noreferrer"> <img src="photos/new_art_archive.png" alt="project example"/> </a>
+		<a href="https://github.com/pwknam/digital-art-archive" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<!-- <a href="https://bookly.cyclic.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a> -->
             <p align="center">
-		Discover new books and save them to your reading playlist!
+		Digitally store and manage your collection of artworks!
             </p>
           </p>
         </td>
 	<td width="50%">
-          <h3 align="center">Outpost</h3>
+          <h3 align="center">Vaccine</h3>
           <p align="center">
-            <a href="https://outpost.cyclic.app/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/outpost-app/blob/main/public/images/outpost-demo.gif?raw=true" alt="project example"/> </a>
-		<a href="https://github.com/danjkim21/outpost-app" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://outpost.cyclic.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+            <a href="https://github.com/pwknam/vaccine" target="_blank" ref="noreferrer"> <img src="photos/new_vaccine.png"/> </a>
+		<a href="https://github.com/pwknam/vaccine" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<!-- <a href="https://outpost.cyclic.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a> -->
             <p align="center">
-            Log in and keep track of your upcoming trips, travel destinations, and activities!
+            An electronic healthcare record system for vaccine information.
             </p>
           </p>
         </td>
     </tr>
           <tr>
         <td width="50%">
-          <h3 align="center">Portfolio Site</h3>
+          <h3 align="center">Letters of AI</h3>
           <p align="center">
-             <a href="https://daniel-jkim.com/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/portfolio-daniel-kim/blob/main/src/assets/images/portfolio-demo.gif?raw=true" alt="project example"/> </a>
-		<a href="https://github.com/danjkim21/portfolio-daniel-kim" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://daniel-jkim.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
+             <a href="https://github.com/pwknam/letters-of-ai" target="_blank" ref="noreferrer"> <img src="photos/new_letters.png" alt="project example"/> </a>
+		<a href="https://github.com/pwknam/letters-of-ai" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
+		<!-- <a href="https://daniel-jkim.com/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a> -->
             <p align="center">
-		My React.js portfolio website. Have a look!
-            </p>
-          </p>
-        </td>
-        <td width="50%">
-          <h3 align="center">arDB</h3>
-          <p align="center">
-             <a href="https://ardb.vercel.app/" target="_blank" ref="noreferrer"> <img src="https://github.com/danjkim21/adv-nuclear-reactor-api-v2/blob/main/images/arDB-demo.gif?raw=true" alt="project example"/> </a>
-		<a href="https://github.com/danjkim21/adv-nuclear-reactor-api-v2" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<a href="https://ardb.vercel.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
-            <p align="center">
-		A RESTful API containing web scraped data of advanced nuclear reactor designs.
+		Easily generate high quality cover letters and letters of recs with the help of AI. 
             </p>
           </p>
         </td>
@@ -93,14 +82,6 @@
 </div>
 
 <hr>
-
-<details>
-  <summary><h2 align="left">My Github Stats</h3></summary>
-
-<a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en" width="50%" alt="danjkim21's GitHub stats" /></a><a href="http://www.github.com/danjkim21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=danjkim21&theme=dark" width="50%"/></a>
-<a href="http://www.github.com/danjkim21"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=danjkim21&show_icons=true&theme=dark&bg_color=1d2127&locale=en&layout=compact" alt="danjkim21"  width="50%"/></a>
-
-</details>
 
 <!--
 **pwknam/pwknam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
