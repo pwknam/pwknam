@@ -23,6 +23,7 @@
 <p align="left"> 
   <p align="center">
     <img src="photos/html.png"/>
+    <img src="photos/html_svg_test.svg"/>
     <img src="photos/js_big.png"/>
 </p>
 <br>
