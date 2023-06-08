@@ -22,9 +22,18 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <p align="center">
-    <img src="photos/html.png"/>
     <img src="photos/html_svg_test.svg"/>
-    <img src="photos/js_big.png"/>
+    <img src="photos/css3 1.svg"/>
+    <img src="photos/javascript (1) 1.svg"/>
+    <img src="photos/typescript 1.svg"/>
+    <img src="photos/python 1.svg"/>
+    <img src="photos/tailwindcss 1.svg"/>
+    </br>
+    <img src="photos/react 1.svg"/>
+    <img src="photos/nextdotjs 1.svg"/>
+    <img src="photos/prisma 1.svg"/>
+    <img src="photos/flask 1.svg"/>
+    <img src="photos/sqlite 1.svg"/>
 </p>
 <br>
 
