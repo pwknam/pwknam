@@ -22,8 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <p align="center">
-    <img src="photos/js.png"/>
-    <img src="photos/js.png"/>
+    <img src="photos/js_big.png"/>
     <img src="photos/js.png"/>
 </p>
 <br>
