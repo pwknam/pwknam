@@ -46,7 +46,7 @@
           <p align="center">
              <a href="https://github.com/pwknam/digital-art-archive" target="_blank" ref="noreferrer"> <img src="photos/new_art_archive.png" alt="project example"/> </a>
 		<a href="https://github.com/pwknam/digital-art-archive" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"></a>
-		<!-- <a href="https://bookly.cyclic.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a> -->
+		<a href="https://digital-art-archive.vercel.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-grey?style=for-the-badge"></a>
             <p align="center">
 		Digitally store and manage your collection of artworks!
             </p>
